@@ -1,0 +1,225 @@
+   <====>
+    Sortare N^2
+   <====>
+
+---> 50 DE ELEMENTE (MODEL, MARCA SI TOKEN)
+Timpul de executie: 0.0010006427764892578 secunde
+Numarul de comparatii: 1225
+Numarul de operatii: 629
+
+---> 100 DE ELEMENTE
+Timpul de executie: 0.006006717681884766 secunde
+Numarul de comparatii: 4950
+Numarul de operatii: 2612
+
+---> 200 DE ELEMENTE
+Timpul de executie: 0.02227926254272461 secunde
+Numarul de comparatii: 19900
+Numarul de operatii: 9945
+
+---> 500 DE ELEMENTE
+Timpul de executie: 0.13332915306091309 secunde
+Numarul de comparatii: 124750
+Numarul de operatii: 58943
+
+---> 1000 DE ELEMENTE
+Timpul de executie: 0.5636591911315918 secunde
+Numarul de comparatii: 499 500
+Numarul de operatii: 243 228
+
+---> 2500 DE ELEMENTE
+Timpul de executie: 3.611682653427124 secunde
+Numarul de comparatii: 3 123 750
+Numarul de operatii: 1 548 135
+
+---> 5000 DE ELEMENTE
+Timpul de executie: 15.93749189376831 secunde
+Numarul de comparatii: 12 497 500
+Numarul de operatii: 6 229 820
+
+---> 10000 DE ELEMENTE
+Timpul de executie: 62.34861421585083 secunde (un minut și 3 secunde)
+Numarul de comparatii: 49 995 000
+Numarul de operatii: 24 993 840
+
+
+---> 1 000 000 DE ELEMENTE (ESTIMATIV)
+Timpul de executie: 11142.86 secunde (3 ore și 5 minute)
+Numarul de comparatii: 4 999 500 000
+Numarul de operatii: 2 499 384 000
+
+
+   <====>
+    Sortare MergeSort
+   <====>
+
+---> 50 DE ELEMENTE (MODEL, MARCA SI TOKEN)
+Timpul de executie: 0.0005044937133789062 secunde
+Numarul de comparatii: 224
+Numarul de operatii: 286
+
+---> 100 DE ELEMENTE
+Timpul de executie: 0.0013022422790527344 secunde
+Numarul de comparatii: 551
+Numarul de operatii: 672
+
+---> 200 DE ELEMENTE
+Timpul de executie: 0.0020346641540527344 secunde
+Numarul de comparatii: 1306
+Numarul de operatii: 1544
+
+---> 500 DE ELEMENTE
+Timpul de executie: 0.00551605224609375 secunde
+Numarul de comparatii: 3882
+Numarul de operatii: 4488
+
+---> 1000 DE ELEMENTE
+Timpul de executie: 0.011627197265625 secunde
+Numarul de comparatii: 8763
+Numarul de operatii: 9976
+
+---> 2500 DE ELEMENTE
+Timpul de executie: 0.03451180458068848 secunde
+Numarul de comparatii: 25 256
+Numarul de operatii: 28 404
+
+---> 5000 DE ELEMENTE
+Timpul de executie: 0.08042573928833008 secunde
+Numarul de comparatii: 55 507
+Numarul de operatii: 61 808
+
+---> 10000 DE ELEMENTE
+Timpul de executie: 0.17811346054077148 secunde
+Numarul de comparatii: 121 004
+Numarul de operatii: 133 616
+
+
+-->> 1 000 000
+Timpul de executie: 27.918490409851074 secunde
+Numarul de comparatii: 18 675 219
+Numarul de operatii: 19 951 424
+
+
+   <====>
+     Cautare secventiala
+   <====>
+
+
+---> 50 DE ELEMENTE
+Numarul de comparatii: 50
+Numarul de operatii: 1
+Timpul de executie: 0.0010023117065429688 secunde
+
+
+---> 100 DE ELEMENTE
+Numarul de comparatii: 100
+Numarul de operatii: 1
+Timpul de executie: 0.0010006427764892578 secunde
+
+
+---> 250 DE ELEMENTE
+Numarul de comparatii: 250
+Numarul de operatii: 1
+Timpul de executie: 0.0015032291412353516 secunde
+
+
+---> 500 DE ELEMENTE
+Numarul de comparatii: 500
+Numarul de operatii: 1
+Timpul de executie: 0.0010106563568115234 secunde
+
+
+---> 1000 DE ELEMENTE
+Numarul de comparatii: 1000
+Numarul de operatii: 1
+Timpul de executie: 0.0020020008087158203 secunde
+
+
+---> 2500 DE ELEMENTE
+Numarul de comparatii: 2500
+Numarul de operatii: 1
+Timpul de executie: 0.003509521484375 secunde
+
+
+---> 5000 DE ELEMENTE
+Numarul de comparatii: 5000
+Numarul de operatii: 1
+Timpul de executie: 0.007737398147583008 secunde
+
+
+---> 10 000 DE ELEMENTE
+Numarul de comparatii: 10000
+Numarul de operatii: 1
+Timpul de executie: 0.013196706771850586 secunde
+
+---> 100 000 DE ELEMENTE
+Numarul de comparatii: 100000
+Numarul de operatii: 1
+Timpul de executie: 0.2065284252166748 secunde
+
+---> 1 000 000 DE ELEMENTE
+Numarul de comparatii: 1000000
+Numarul de operatii: 1
+Timpul de executie: 2.167487144470215 secunde
+
+    <====>
+      Cautare binara
+    <====>
+
+---> 50 DE ELEMENTE
+Numărul de comparații: 5
+Numărul de operații: 5
+Timpul de execuție: 0.0 secunde
+
+
+---> 100 DE ELEMENTE
+Numărul de comparații: 7
+Numărul de operații: 7
+Timpul de execuție: 0.0 secunde
+
+---> 250 DE ELEMENTE
+Numărul de comparații: 8
+Numărul de operații: 8
+Timpul de execuție: 0.0 secunde
+
+
+---> 500 DE ELEMENTE
+Numărul de comparații: 9
+Numărul de operații: 9
+Timpul de execuție: 0.0 secunde
+
+
+---> 1000 DE ELEMENTE
+Numărul de comparații: 10
+Numărul de operații: 10
+Timpul de execuție: 0.0 secunde
+
+
+---> 2500 DE ELEMENTE
+Numărul de comparații: 11
+Numărul de operații: 11
+Timpul de execuție: 0.0 secunde
+
+
+---> 5000 DE ELEMENTE
+Numărul de comparații: 12
+Numărul de operații: 12
+Timpul de execuție: 0.0 secunde
+
+
+---> 10000 DE ELEMENTE
+Numărul de comparații: 12
+Numărul de operații: 12
+Timpul de execuție: 0.0 secunde
+
+-->> 100 000 DE ELEMENTE
+Numărul de comparații: 16
+Numărul de operații: 16
+Timpul de execuție: 0.0 secunde
+
+---> 1 000 000 DE ELEMENTE
+Numărul de comparații: 19
+Numărul de operații: 19
+Timpul de execuție: 0.0 secunde
+
+
