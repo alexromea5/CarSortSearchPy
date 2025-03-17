@@ -27,5 +27,5 @@ The program allows sorting cars by:
 | **Sequential Search** | 0.001s  | 0.001s      | 0.0015s     | 0.001s      | 0.002s       | 0.0035s      | 0.0077s      | 0.0131s       | 0.2065s        | 2.167s          |
 | **Binary Search** | 0.0000s    | 0.0000s     | 0.0000s     | 0.0000s     | 0.0000s      | 0.0000s      | 0.0000s      | 0.0000s       | 0.0s           | 0.0s            |
 
-For some cool graphs, you can also check the **comparastii.pptx** file.
+For some cool graphs, you can also check the **comparatii.pptx** file.
 
