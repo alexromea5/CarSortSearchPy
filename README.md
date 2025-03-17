@@ -27,5 +27,15 @@ The program allows sorting cars by:
 | **Sequential Search** | 0.001s  | 0.001s      | 0.0015s     | 0.001s      | 0.002s       | 0.0035s      | 0.0077s      | 0.0131s       | 0.2065s        | 2.167s          |
 | **Binary Search** | 0.0000s    | 0.0000s     | 0.0000s     | 0.0000s     | 0.0000s      | 0.0000s      | 0.0000s      | 0.0000s       | 0.0s           | 0.0s            |
 
-For some cool graphs, you can also check the **comparatii.pptx** file.
+## Algorithm Operations Count
+
+
+| Algorithm          | 50 Elements | 100 Elements | 200 Elements | 500 Elements | 1000 Elements | 2500 Elements | 5000 Elements | 10000 Elements | 100000 Elements | 1 Million Elements |
+|-------------------|------------|-------------|-------------|-------------|--------------|--------------|--------------|---------------|----------------|-----------------|
+| **Bubble Sort**   | 629        | 2612        | 9945        | 58943       | 243228       | 1548135      | 6229820      | 24993840      | Estimated      | Estimated       |
+| **Merge Sort**    | 286        | 672         | 1544        | 4488        | 9976         | 28404        | 61808        | 133616        | 18675219       | 19951424        |
+| **Sequential Search** | 1      | 1           | 1           | 1           | 1           | 1           | 1           | 1            | 1              | 1               |
+| **Binary Search** | 5          | 7           | 8           | 9           | 10          | 11          | 12          | 12           | 16             | 19              |
+
+For some cool graphs and data visualization, you can also check the **comparatii.pptx** file.
 
