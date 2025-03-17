@@ -19,8 +19,6 @@ The program allows sorting cars by:
 
 ## Algorithm Execution Time Comparison
 
-<details>
-  <summary>Click to expand table</summary>
 
 | Algorithm          | 50 Elements | 100 Elements | 200 Elements | 500 Elements | 1000 Elements | 2500 Elements | 5000 Elements | 10000 Elements | 100000 Elements | 1 Million Elements |
 |-------------------|------------|-------------|-------------|-------------|--------------|--------------|--------------|---------------|----------------|-----------------|
@@ -29,5 +27,4 @@ The program allows sorting cars by:
 | **Sequential Search** | 0.001s  | 0.001s      | 0.0015s     | 0.001s      | 0.002s       | 0.0035s      | 0.0077s      | 0.0131s       | 0.2065s        | 2.167s          |
 | **Binary Search** | 0.0000s    | 0.0000s     | 0.0000s     | 0.0000s     | 0.0000s      | 0.0000s      | 0.0000s      | 0.0000s       | 0.0s           | 0.0s            |
 
-</details>
 
